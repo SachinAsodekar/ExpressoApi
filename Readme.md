@@ -1,10 +1,3 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title></title>
-</head>
-<body>
-
-</body>
-</html>
+Simple Coffee Shop Rest API
+The main focus of this course is on the Restful Web Api via 
+Asp.NET and C#.
